@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... NOPE
 --> HAHAHAHA Entah Bodo Pokoknya lihat My Twitter
 <a href="https://twitter.com/AdhiSquarePants?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @AdhiSquarePants</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=uigitdev) 
