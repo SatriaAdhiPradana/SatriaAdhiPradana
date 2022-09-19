@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... NOPE
 - 😄 Pronouns: ... NOPE
 - ⚡ Fun fact: ... NOPE
---> HAHAHAHA Entah Bodo
+--> HAHAHAHA Entah Bodo Pokoknya Cek My Twitter
+<a class="twitter-timeline" href="https://twitter.com/AdhiSquarePants?ref_src=twsrc%5Etfw">Tweets by AdhiSquarePants</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
