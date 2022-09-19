@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... NOPE
 - 😄 Pronouns: ... NOPE
 - ⚡ Fun fact: ... NOPE
---> HAHAHAHA NOPE
+--> HAHAHAHA Entah Bodo
