@@ -9,7 +9,10 @@
 </script>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=SatriaAdhiPradana) 
-Here are some ideas to get you started:
+
+==========
+
+*Here are some ideas to get you started:*
 
 - 🔭 I’m currently working on ... NOPE
 
